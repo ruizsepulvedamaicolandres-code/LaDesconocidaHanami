@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bc378d9d9c5e2c043bf29db182f1aa76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8765932564656389229
+    second: TituloHanami_0
+  - first:
+      213: 9165578353017835136
+    second: TituloHanami_1
+  - first:
+      213: 7697342089472123071
+    second: TituloHanami_2
+  - first:
+      213: -1017944822449059791
+    second: TituloHanami_3
+  - first:
+      213: -1533616846037027699
+    second: TituloHanami_4
+  - first:
+      213: -1564601350574393925
+    second: TituloHanami_5
+  - first:
+      213: -3251963641288946510
+    second: TituloHanami_6
+  - first:
+      213: -2786897184389446435
+    second: TituloHanami_7
+  - first:
+      213: -3829508992249673407
+    second: TituloHanami_8
+  - first:
+      213: -5547045466778244580
+    second: TituloHanami_9
+  - first:
+      213: -22810631567958776
+    second: TituloHanami_10
+  - first:
+      213: -1794027123990530891
+    second: TituloHanami_11
+  - first:
+      213: 5925126323723954120
+    second: TituloHanami_12
+  - first:
+      213: 3265063193959392648
+    second: TituloHanami_13
+  - first:
+      213: -3497380649750192818
+    second: TituloHanami_14
+  - first:
+      213: 7422532111533312050
+    second: TituloHanami_15
+  - first:
+      213: -2931491301706746132
+    second: TituloHanami_16
+  - first:
+      213: 3472145491174401754
+    second: TituloHanami_17
+  - first:
+      213: 4265241836393851259
+    second: TituloHanami_18
+  - first:
+      213: -2822645254832352231
+    second: TituloHanami_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TituloHanami_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 721
+        width: 266
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39380aeb6c6295680800000000000000
+      internalID: -8765932564656389229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 720
+        width: 272
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e43a463fca23f70800000000000000
+      internalID: 9165578353017835136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 718
+        width: 285
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb026ad19d372da60800000000000000
+      internalID: 7697342089472123071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_3
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 725
+        width: 263
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138c9f8c3988fd1f0800000000000000
+      internalID: -1017944822449059791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_4
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 722
+        width: 255
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84786e9a9f77bae0800000000000000
+      internalID: -1533616846037027699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_5
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 716
+        width: 280
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5baeb7c5b694ae0800000000000000
+      internalID: -1564601350574393925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_6
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 722
+        width: 256
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc8c724c44bed2d0800000000000000
+      internalID: -3251963641288946510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_7
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 722
+        width: 312
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd44ee2c6c3f259d0800000000000000
+      internalID: -2786897184389446435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_8
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 722
+        width: 256
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1494bc47cd9dadac0800000000000000
+      internalID: -3829508992249673407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_9
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 716
+        width: 280
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aedb7998fe403b0800000000000000
+      internalID: -5547045466778244580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_10
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 719
+        width: 120
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d1a48f9d5feaff0800000000000000
+      internalID: -22810631567958776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_11
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 718
+        width: 285
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4f02df5d55a17e0800000000000000
+      internalID: -1794027123990530891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_12
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 713
+        width: 272
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7e1eeaff64a3250800000000000000
+      internalID: 5925126323723954120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_13
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 265
+        width: 259
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885e6250da5df4d20800000000000000
+      internalID: 3265063193959392648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_14
+      rect:
+        serializedVersion: 2
+        x: 9638
+        y: 690
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d905734dec67fc0800000000000000
+      internalID: -3497380649750192818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_15
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 257
+        width: 323
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2388fd111a1220760800000000000000
+      internalID: 7422532111533312050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_16
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 259
+        width: 272
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce63f9b51304157d0800000000000000
+      internalID: -2931491301706746132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_17
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 268
+        width: 312
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ace19de98f2030800000000000000
+      internalID: 3472145491174401754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_18
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 259
+        width: 272
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79e36b1ade213b30800000000000000
+      internalID: 4265241836393851259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TituloHanami_19
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 267
+        width: 332
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91496c28813f3d8d0800000000000000
+      internalID: -2822645254832352231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TituloHanami_0: -8765932564656389229
+      TituloHanami_1: 9165578353017835136
+      TituloHanami_10: -22810631567958776
+      TituloHanami_11: -1794027123990530891
+      TituloHanami_12: 5925126323723954120
+      TituloHanami_13: 3265063193959392648
+      TituloHanami_14: -3497380649750192818
+      TituloHanami_15: 7422532111533312050
+      TituloHanami_16: -2931491301706746132
+      TituloHanami_17: 3472145491174401754
+      TituloHanami_18: 4265241836393851259
+      TituloHanami_19: -2822645254832352231
+      TituloHanami_2: 7697342089472123071
+      TituloHanami_3: -1017944822449059791
+      TituloHanami_4: -1533616846037027699
+      TituloHanami_5: -1564601350574393925
+      TituloHanami_6: -3251963641288946510
+      TituloHanami_7: -2786897184389446435
+      TituloHanami_8: -3829508992249673407
+      TituloHanami_9: -5547045466778244580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

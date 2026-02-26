@@ -8,25 +8,45 @@ public class GameManager : MonoBehaviour
 {
     public GameObject MainMenu;
     public GameObject LevelsPanel;
-    private GameObject CurentPanel;
-    private GameObject NewPanel;
+    public GameObject CreditsPanel;
+    public GameObject OptionsPanel;
 
-public void ShowMainMenu()
+    private GameObject currentPanel;
+
+    public void Start()
     {
-        NewPanel.SetActive(true);
-        CurentPanel.SetActive(false);
+        currentPanel = MainMenu;
+        MainMenu.SetActive(true);
     }
 
-public void ShowLevelsPanel()
+    public void ShowMainMenu()
     {
-        NewPanel.SetActive(true);
-        CurentPanel.SetActive(false);
+        ChangePanel(MainMenu);
     }
-void Start()
-{
-    CurentPanel = MainMenu;
-    NewPanel = LevelsPanel;
-}
+
+    public void ShowCreditsPanel()
+    {
+        ChangePanel(CreditsPanel);
+    }
+
+    public void ShowLevelsPanel()
+    {
+        ChangePanel(LevelsPanel);
+        MainMenu.SetActive(true);
+    }
+
+    public void ShowOptionsPanel()
+    {
+        ChangePanel(OptionsPanel);
+        MainMenu.SetActive(true);
+    }
+
+    private void ChangePanel(GameObject newPanel)
+    {
+        currentPanel.SetActive(false);
+        newPanel.SetActive(true);
+        currentPanel = newPanel;
+    }
 
 }
 

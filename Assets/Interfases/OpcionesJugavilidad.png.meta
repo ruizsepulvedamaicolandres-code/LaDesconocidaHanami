@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: b45d614aefa5d0748b60133029050275
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6859848609424072495
+    second: OpcionesJugavilidad_0
+  - first:
+      213: -3773397722998058899
+    second: OpcionesJugavilidad_1
+  - first:
+      213: -667454422512701127
+    second: OpcionesJugavilidad_2
+  - first:
+      213: 331478812168537922
+    second: OpcionesJugavilidad_3
+  - first:
+      213: 7530391857455028959
+    second: OpcionesJugavilidad_4
+  - first:
+      213: -3223000744582730319
+    second: OpcionesJugavilidad_5
+  - first:
+      213: -3411920400064015978
+    second: OpcionesJugavilidad_6
+  - first:
+      213: -1545510391555816132
+    second: OpcionesJugavilidad_7
+  - first:
+      213: 4894723131291351223
+    second: OpcionesJugavilidad_8
+  - first:
+      213: -2763657038728302092
+    second: OpcionesJugavilidad_9
+  - first:
+      213: -5659880838115255077
+    second: OpcionesJugavilidad_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 113
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d02256e80cecc0a0800000000000000
+      internalID: -6859848609424072495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 143
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60de6463c232abc0800000000000000
+      internalID: -3773397722998058899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 9
+        width: 157
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931fd523db9bcb6f0800000000000000
+      internalID: -667454422512701127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 15
+        width: 148
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247cfd13936a99400800000000000000
+      internalID: 331478812168537922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 19
+        width: 169
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdad9132f73518860800000000000000
+      internalID: 7530391857455028959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 19
+        width: 66
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bda35426e99543d0800000000000000
+      internalID: -3223000744582730319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 20
+        width: 145
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6919648297c66a0d0800000000000000
+      internalID: -3411920400064015978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_7
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 19
+        width: 66
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3504a2cc7e3d8ae0800000000000000
+      internalID: -1545510391555816132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_8
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 17
+        width: 156
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8328a21cc8de340800000000000000
+      internalID: 4894723131291351223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_9
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 15
+        width: 148
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17795d09485a9d0800000000000000
+      internalID: -2763657038728302092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpcionesJugavilidad_10
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 17
+        width: 156
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc99157d501471b0800000000000000
+      internalID: -5659880838115255077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OpcionesJugavilidad_0: -6859848609424072495
+      OpcionesJugavilidad_1: -3773397722998058899
+      OpcionesJugavilidad_10: -5659880838115255077
+      OpcionesJugavilidad_2: -667454422512701127
+      OpcionesJugavilidad_3: 331478812168537922
+      OpcionesJugavilidad_4: 7530391857455028959
+      OpcionesJugavilidad_5: -3223000744582730319
+      OpcionesJugavilidad_6: -3411920400064015978
+      OpcionesJugavilidad_7: -1545510391555816132
+      OpcionesJugavilidad_8: 4894723131291351223
+      OpcionesJugavilidad_9: -2763657038728302092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
