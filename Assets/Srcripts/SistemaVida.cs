@@ -18,14 +18,35 @@ public class SistemaVida : MonoBehaviour
     private Animator anim;
     public Image fillImage;
 
+    public PoderPlayer sistemaPoderPlayer;
+
+
+
+
     void Start() {
         vidaActual = vidaMax;
         anim = GetComponent<Animator>();
         if (spritePersonaje != null) colorOriginal = spritePersonaje.color;
     }
 
-    public void RecibirDano(float cantidad) {
+   
+    public void RecibirDano(float cantidad) 
+    {
+
         vidaActual -= cantidad;
+
+        if (!esJugador && sistemaPoderPlayer != null)
+        {
+            sistemaPoderPlayer.AgregarPoder(cantidad);
+
+            Debug.Log("Se agregó poder: " + cantidad);
+        }
+
+        if (vidaActual <= 0)
+        {
+            Morir();
+        }
+
 
         if (esJugador) {
         // Buscamos la barra específica del jugador

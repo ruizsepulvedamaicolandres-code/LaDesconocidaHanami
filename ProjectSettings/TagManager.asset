@@ -16,14 +16,14 @@ TagManager:
   - Water
   - UI
   - CapaPlayer
-  - BalaPlayer
+  - Bullet1
   - CapaEnemigo
-  - BalaEnemigo
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Bullet2
+  - Bullet3
+  - Bullet4
+  - SpecialAttack
+  - StrongAttack
+  - BulletEnemy
   - 
   - 
   - 

@@ -230,9 +230,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidad: 3
   distanciaDetencion: 5
-  prefabBalaEnemiga: {fileID: 2001748530708110825, guid: 9dcce8c854e6cc94a8fdee170ef2afa9, type: 3}
+  prefabBalaEnemiga: {fileID: 964282956588585722, guid: 9ca0542aef35e3143a53ae53f07e1c31, type: 3}
   puntaArma: {fileID: 2772261023026964179}
-  tiempoEntreDisparos: 1.5
+  tiempoEntreDisparos: 0.1
   panelBarraVida: {fileID: 0}
   sliderVidaSubjefe: {fileID: 0}
 --- !u!114 &8153257211332908732
