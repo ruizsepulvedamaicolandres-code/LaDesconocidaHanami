@@ -50,7 +50,11 @@ public class AimedShot: MonoBehaviour
         transform.up = direction;
     }
 
- 
+    void DispararEspecial(Bullet bala)
+{
+    Bullet bullet = Instantiate(bala, shotPosition.position, transform.rotation);
+    bullet.Shoot(transform.up);
+}
     public void ChangeBullet()
     {
         if (Input.GetKeyDown(KeyCode.Q))
@@ -86,23 +90,22 @@ public class AimedShot: MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.C))
         {
-            if (Time.time > nextShootTime)
+            if (sistemaPoderPlayer.PuedeUsarStrong())
             {
-                if (sistemaPoderPlayer.PuedeUsarStrong())
-                {
-                    DispararEspecial(strongAttack);
-                    sistemaPoderPlayer.UsarStrong();
-
-                    nextShootTime = Time.time + strongAttackInterval;
-                }
+                DispararEspecial(strongAttack);
+                sistemaPoderPlayer.UsarStrong();
             }
         }
-    }
 
-    void DispararEspecial(Bullet bala)
-    {
-        Bullet bullet = Instantiate(bala, shotPosition.position, transform.rotation);
-        bullet.Shoot(transform.up);
+        if (Input.GetKeyDown(KeyCode.V))
+        {
+            if (sistemaPoderPlayer.PuedeUsarSpecial())
+            {
+                DispararEspecial(specialAttack);
+                sistemaPoderPlayer.UsarSpecial();
+            }
+        }
+
     }
     private void Shot()
     {
@@ -119,6 +122,28 @@ public class AimedShot: MonoBehaviour
             }
 
         }
+    }
+
+    public int GetBulletActual()
+    {
+        if (bulletActual == bullet1)
+        {
+            return 1;
+        }
+        else if (bulletActual == bullet2)
+        {
+            return 2;
+        }
+        else if (bulletActual == bullet3)
+        {
+            return 3;
+        }
+        else if (bulletActual == bullet4)
+        {
+            return 4;
+        }
+
+        return 0;
     }
 
 
