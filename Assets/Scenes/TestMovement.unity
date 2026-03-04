@@ -591,6 +591,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Player '
       objectReference: {fileID: 0}
+    - target: {fileID: 2205377279690938255, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 9142775733552737614, guid: 4dbb27ae38b837e408cdc1e3681e463a, type: 3}
+    - target: {fileID: 2205377279690938255, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2205377279690938255, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2205377279690938255, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2205377279690938255, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2502959929047275123, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
       propertyPath: bullet3
       value: 
@@ -635,6 +655,10 @@ PrefabInstance:
       propertyPath: specialAttackInterval
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3479631185313234169, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: animator
+      value: 
+      objectReference: {fileID: 2115158835}
     - target: {fileID: 3520730021456676635, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
       propertyPath: cameraTransform
       value: 
@@ -679,6 +703,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6597365852248995800, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Size.x
+      value: 1.3926212
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597365852248995800, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Size.y
+      value: 1.7926495
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597365852248995800, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0037041306
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597365852248995800, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.10000718
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597365852248995800, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597365852248995800, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 3.2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -686,6 +734,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1867232153830715017, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2115158828}
+    - targetCorrespondingSourceObject: {fileID: 1867232153830715017, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2115158835}
   m_SourcePrefab: {fileID: 100100000, guid: 16154ee24dc5db14d805455ab659dafd, type: 3}
 --- !u!1 &668378428
 GameObject:
@@ -3152,6 +3203,28 @@ MonoBehaviour:
   sliderPoder: {fileID: 1105032436}
   costoStrongAttack: 50
   costoSpecialAttack: 100
+--- !u!95 &2115158835
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857292366}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9d196e4c805f73649971371787b94ff1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &5901518109273945301
 PrefabInstance:
   m_ObjectHideFlags: 0
