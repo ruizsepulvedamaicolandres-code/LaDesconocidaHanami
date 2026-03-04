@@ -42,6 +42,15 @@ public class Player : MonoBehaviour
         float velocidadX = Input.GetAxis("Horizontal")*Time.deltaTime*speed;
         float velocidadY = Input.GetAxis("Vertical")*Time.deltaTime*speed;
         animator.SetFloat("Movement", velocidadX*speed);//Las condiciones del movimiento 
+
+        if (velocidadX <0)
+        {
+            transform.localScale = new Vector3(-1,1,1);
+        }
+        if (velocidadX >0)
+        {
+            transform.localScale = new Vector3(1,1,1);
+        }
         Vector2 posicion = transform.position;
         transform.position = new Vector2(velocidadX + posicion.x,velocidadY + posicion.y);
        /* movement.x = Input.GetAxisRaw("Horizontal");
