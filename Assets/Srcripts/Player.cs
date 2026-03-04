@@ -45,11 +45,11 @@ public class Player : MonoBehaviour
 
         if (velocidadX <0)
         {
-            transform.localScale = new Vector3(-1,1,1);
+            transform.localScale = new Vector2(-1,1);
         }
         if (velocidadX >0)
         {
-            transform.localScale = new Vector3(1,1,1);
+            transform.localScale = new Vector2(1,1);
         }
         Vector2 posicion = transform.position;
         transform.position = new Vector2(velocidadX + posicion.x,velocidadY + posicion.y);
